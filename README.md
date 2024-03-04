@@ -10,7 +10,7 @@
 * Dla obrazków w galerii zastosuj object-fit: cover
 * Zastosuj dowolny efekt :hover na obrazkach w galerii
 
-**Pamiętaj o wykorzustaniu display: block, inline-block**
+**Pamiętaj o wykorzystaniu display: block, inline-block**
 
 Rozwiązanie
 ![image info](./zadanie.png)
