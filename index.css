@@ -1,0 +1,11 @@
+/* Zasady projektowania
+Rodzina czcionek: Cormorant, serif
+Kolor tła: #f8f7f4
+Kolor tekstu: black
+Maksymalna szerokość: 1200px 
+Zawartość strony wyśrodkowana za pomocą margin: 0 auto
+Dla obrazków w galerii zastosuj object-fit: cover
+Zastosuj dowolny efekt :hover na obrazkach w galerii
+
+Pamiętaj o wykorzustaniu display: block, inline-block
+*/
